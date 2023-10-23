@@ -5,10 +5,6 @@
     font-family: "Poppins", sans-serif;
 }
 
-a {
-    color: white;
-}
-
 body {
     display: flex;
     justify-content: center;
@@ -45,7 +41,6 @@ h2 {
     padding-left: 15px;
     padding-right: 15px;
     outline: none;
-
 }
 
 h3 {
